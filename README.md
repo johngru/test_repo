@@ -1,6 +1,6 @@
 # A test repository
 ## Motivation
-Every great project starts with solid testing.  Github is no different.
+Every great project starts with solid testing.  Github is no exception.
 ---
 ### Description
 A **sample repository** and sample readme file for connectivity resolution and illustration purposes.
